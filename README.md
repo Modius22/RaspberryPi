@@ -1,5 +1,5 @@
 # RaspberryPi
-This is a Repo with all Raspberry Pi scripts from the blog post on  www.modius-techblog.de.i
+This is a Repo with all Raspberry Pi scripts from the blog post on  www.modius-techblog.de.
 
 ## Camera
 All scripts about rpi cam's
